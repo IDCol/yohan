@@ -26,10 +26,10 @@ public class yohan {
        double division;
         int resto;
         
-        System.out.print("Ingrese el primer numero");
+        System.out.print("Ingrese el primer numero: ");
         num1 = yohan.nextDouble();
         
-        System.out.print("Ingrese el segundo numero");
+        System.out.print("Ingrese el segundo numero: ");
         num2 = yohan.nextDouble();
         
         while(num2 ==0  ){
